@@ -129,18 +129,7 @@ Core principles:
 - Performance
 - Automation
 - Developer Experience
-
----
-
-# 📈 GitHub Stats
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=NatanNarciso&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NatanNarciso&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
+  
 ---
 
 # 🌎 Current Focus
