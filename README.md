@@ -1,18 +1,28 @@
 # Hi, I'm Natan Narciso 👋
 
-Full Stack Software Engineer building scalable SaaS platforms, ERP systems and AI-powered solutions.
+**Software Engineer • Founder of N7Core • ERP & AI Systems Architect**
 
-Founder of **N7Core**, where I design, build and maintain software from architecture to production.
+I build scalable software products—from business architecture to production.
+
+Specialized in ERP platforms, SaaS applications, AI integrations and high-performance backend systems using .NET, React and Node.js.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🏗️ Building ERP systems and SaaS products focused on scalability and long-term maintainability.
-- 🤖 AI-first developer, using LLMs to accelerate development while keeping architecture and engineering decisions human-driven.
-- ⚙️ Passionate about software architecture, distributed systems and automation.
-- 📚 I document systems using ADRs, technical documentation and Obsidian as my second brain.
-- 🚀 Always exploring new technologies that can become competitive advantages.
+I'm passionate about building software that solves real business problems.
+
+Currently, I'm developing modern ERP platforms, AI-powered applications and SaaS products with a strong focus on scalability, maintainability and clean architecture.
+
+### What I enjoy building
+
+- 🏢 Enterprise ERP systems
+- 🚀 SaaS platforms
+- 🤖 AI-powered applications
+- ⚡ High-performance APIs
+- 📱 Cross-platform mobile apps
+- ☁️ Cloud-native architectures
+- 🔄 Automation and workflow systems
 
 ---
 
@@ -32,9 +42,12 @@ Founder of **N7Core**, where I design, build and maintain software from architec
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### Database & Infrastructure
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -45,38 +58,43 @@ Founder of **N7Core**, where I design, build and maintain software from architec
 
 ## 🏢 StructCore ERP
 
-Modern ERP platform built with .NET and React.
+A next-generation ERP platform designed for medium and large businesses.
 
-Features include:
+**Highlights**
 
 - Multi-company architecture
 - Financial management
 - CRM
-- Inventory
-- Purchasing
+- Inventory & Purchasing
 - Sales
-- AI-powered features
+- AI-powered productivity features
+- Modern React frontend with .NET backend
 
 ---
 
 ## 🤖 N7 Notify
 
-High-performance WhatsApp automation platform built with Node.js.
+High-performance WhatsApp automation platform.
+
+**Highlights**
 
 - REST API
+- Multi-session architecture
 - Media support
-- Session management
 - AI integrations
+- Workflow automation
 
 ---
 
 ## 📋 DailyTask
 
-Workflow and task management platform.
+Task and workflow management platform.
+
+**Highlights**
 
 - Kanban
 - Calendar
-- Team management
+- Team collaboration
 - Notifications
 - AI automations
 
@@ -84,34 +102,64 @@ Workflow and task management platform.
 
 ## 🚕 Costa Italy Platform
 
-Ride-hailing platform developed for regional transportation.
+Regional ride-hailing platform.
+
+**Highlights**
 
 - Passenger App
 - Driver App
 - Admin Dashboard
-- Real-time location
+- Real-time tracking
 - Payment integrations
 
 ---
 
-# 🧠 Engineering Principles
+# 🧠 Engineering Philosophy
+
+> Great software is not only about writing code.
+> It's about designing systems that remain simple, scalable and maintainable for years.
+
+Core principles:
 
 - Clean Architecture
-- Domain Driven Design
+- Domain-Driven Design
 - SOLID
 - API First
 - AI First
-- Performance matters
-- Simplicity over complexity
+- Performance
+- Automation
+- Developer Experience
 
 ---
 
 # 📈 GitHub Stats
 
-(Adicionar os cards do GitHub aqui)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NatanNarciso&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanNarciso&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NatanNarciso&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NatanNarciso&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4" />
+</p>
+
+---
+
+---
+
+# 🌎 Current Focus
+
+- Building StructCore ERP
+- Developing AI-powered business software
+- Designing scalable SaaS platforms
+- Exploring modern software architecture
 
 ---
 
 ## 📍 Brazil 🇧🇷
 
-Building software that solves real business problems.
+**Building software that creates real business value.**
