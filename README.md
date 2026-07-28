@@ -134,20 +134,16 @@ Core principles:
 
 # 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NatanNarciso&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanNarciso&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NatanNarciso&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanNarciso&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NatanNarciso&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNarciso&theme=github-dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NatanNarciso&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4" />
-</p>
-
----
 
 ---
 
