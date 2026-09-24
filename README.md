@@ -56,7 +56,7 @@ Currently, I'm developing modern ERP platforms, AI-powered applications and SaaS
 
 # 🚀 Featured Projects
 
-## 🏢 StructCore ERP
+## 🏢 EngIA ERP
 
 A next-generation ERP platform designed for medium and large businesses.
 
@@ -134,7 +134,7 @@ Core principles:
 
 # 🌎 Current Focus
 
-- Building StructCore ERP
+- Building EngIA ERP
 - Developing AI-powered business software
 - Designing scalable SaaS platforms
 - Exploring modern software architecture
