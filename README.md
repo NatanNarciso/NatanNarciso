@@ -67,14 +67,6 @@ Plataforma de automação via WhatsApp de alta performance.
 - Suporte a mídia e automação de fluxos
 - Integrações com IA
 
-## 🚕 Costa Italy
-
-Plataforma regional de mobilidade urbana.
-
-- App do passageiro e do motorista
-- Painel administrativo
-- Rastreamento em tempo real e pagamentos
-
 ---
 
 # 🧠 Como eu trabalho
