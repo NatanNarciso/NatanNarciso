@@ -1,147 +1,102 @@
-# Hi, I'm Natan Narciso 👋
+# Olá, sou Natan Narciso 👋
 
-**Software Engineer • Founder of N7Core • ERP & AI Systems Architect**
+**Engenheiro de Software • Fundador da N7Core • Arquiteto de Sistemas ERP & IA**
 
-I build scalable software products—from business architecture to production.
-
-Specialized in ERP platforms, SaaS applications, AI integrations and high-performance backend systems using .NET, React and Node.js.
+Construo produtos de software escaláveis, da arquitetura de negócio à produção, com foco em plataformas ERP, sistemas corporativos e integrações de IA.
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre mim
 
-I'm passionate about building software that solves real business problems.
+Desenvolvo plataformas ERP, aplicações corporativas e produtos com IA integrada, sempre priorizando escalabilidade, manutenibilidade e arquitetura limpa.
 
-Currently, I'm developing modern ERP platforms, AI-powered applications and SaaS products with a strong focus on scalability, maintainability and clean architecture.
+**O que eu construo**
 
-### What I enjoy building
-
-- 🏢 Enterprise ERP systems
-- 🚀 SaaS platforms
-- 🤖 AI-powered applications
-- ⚡ High-performance APIs
-- 📱 Cross-platform mobile apps
-- ☁️ Cloud-native architectures
-- 🔄 Automation and workflow systems
+- 🏢 Sistemas ERP corporativos
+- 💬 Plataformas de gestão e colaboração
+- 🤖 Aplicações com IA integrada
+- ⚡ APIs e serviços de alta performance
+- 📱 Apps mobile híbridos (Android/iOS via Capacitor)
+- ☁️ Infraestrutura cloud-native e CI/CD
+- 🔄 Automação de processos e integrações (WhatsApp, filas, notificações)
 
 ---
 
-# 💻 Tech Stack
+# 💻 Stack
 
-### Frontend
+**Frontend** — React • Vite • Tailwind CSS • Blazor
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+**Backend** — C# • .NET / ASP.NET Core • Node.js • Prisma ORM • Socket.io • BullMQ
 
-### Backend
+**Mobile** — Capacitor (Android nativo, push via Firebase Cloud Messaging)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+**Dados & Armazenamento** — MySQL • Redis • MinIO (S3-compatible)
 
-### Database
+**Infraestrutura** — Docker • GitHub Actions (CI/CD) • Cloudflare Tunnel • Linux • macOS
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+**IA & Integrações** — Automação de documentos e comparação de orçamentos com IA • Automação via WhatsApp
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projetos em destaque
 
 ## 🏢 EngIA ERP
 
-A next-generation ERP platform designed for medium and large businesses.
+ERP para gestão de obras e construção civil, multiempresa.
 
-**Highlights**
+- Compras, cotação e ordens de compra
+- Controle de estoque e insumos por obra
+- Financeiro (contas a pagar, faturamento)
+- Leitura de notas fiscais e comparação de orçamentos com IA
+- Backend .NET/C# + frontend Blazor
 
-- Multi-company architecture
-- Financial management
-- CRM
-- Inventory & Purchasing
-- Sales
-- AI-powered productivity features
-- Modern React frontend with .NET backend
+## 📋 Agenda Voltolini (DailyTask)
 
----
+Plataforma corporativa de gestão de tarefas e comunicação interna.
+
+- Kanban, calendário e agendamento de salas em tempo real
+- Chat corporativo (DMs, canais, feed) e recepção/CRM de visitantes
+- Notificações push nativas (Android via Capacitor + FCM)
+- Backend Node.js + frontend React
 
 ## 🤖 N7 Notify
 
-High-performance WhatsApp automation platform.
+Plataforma de automação via WhatsApp de alta performance.
 
-**Highlights**
+- API REST multi-sessão
+- Suporte a mídia e automação de fluxos
+- Integrações com IA
 
-- REST API
-- Multi-session architecture
-- Media support
-- AI integrations
-- Workflow automation
+## 🚕 Costa Italy
 
----
+Plataforma regional de mobilidade urbana.
 
-## 📋 DailyTask
-
-Task and workflow management platform.
-
-**Highlights**
-
-- Kanban
-- Calendar
-- Team collaboration
-- Notifications
-- AI automations
+- App do passageiro e do motorista
+- Painel administrativo
+- Rastreamento em tempo real e pagamentos
 
 ---
 
-## 🚕 Costa Italy Platform
+# 🧠 Como eu trabalho
 
-Regional ride-hailing platform.
+> Software bom não é só sobre escrever código — é sobre projetar sistemas que continuam simples, escaláveis e fáceis de manter anos depois.
 
-**Highlights**
-
-- Passenger App
-- Driver App
-- Admin Dashboard
-- Real-time tracking
-- Payment integrations
+- Arquitetura limpa e orientada a domínio
+- API first
+- IA aplicada a problemas reais, não por modismo
+- Automação de ponta a ponta
+- Performance e experiência do desenvolvedor
 
 ---
 
-# 🧠 Engineering Philosophy
+# 🌎 Foco atual
 
-> Great software is not only about writing code.
-> It's about designing systems that remain simple, scalable and maintainable for years.
-
-Core principles:
-
-- Clean Architecture
-- Domain-Driven Design
-- SOLID
-- API First
-- AI First
-- Performance
-- Automation
-- Developer Experience
-  
----
-
-# 🌎 Current Focus
-
-- Building EngIA ERP
-- Developing AI-powered business software
-- Designing scalable SaaS platforms
-- Exploring modern software architecture
+- Evoluindo o EngIA ERP
+- Levando a Agenda Voltolini para mobile (Android/iOS)
+- Explorando IA aplicada a automação de processos corporativos
 
 ---
 
-## 📍 Brazil 🇧🇷
+## 📍 Brasil 🇧🇷
 
-**Building software that creates real business value.**
+**Construindo software que gera valor real para o negócio.**
