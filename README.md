@@ -1,94 +1,155 @@
-# Olá, sou Natan Narciso 👋
+<div align="center">
 
-**Engenheiro de Software • Fundador da N7Core • Arquiteto de Sistemas ERP & IA**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC6140,100:D98060&height=190&section=header&text=Natan%20Narciso&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20%E2%80%A2%20Fundador%20da%20N7Core&descAlignY=60&descSize=18" alt="Natan Narciso" />
 
-Construo produtos de software escaláveis, da arquitetura de negócio à produção, com foco em plataformas ERP, sistemas corporativos e integrações de IA.
+<a href="https://github.com/NatanNarciso">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=CC6140&center=true&vCenter=true&width=640&lines=ERP+%26+sistemas+corporativos+escal%C3%A1veis;Arquitetura+limpa%2C+API+first;IA+aplicada+a+problemas+reais;Automa%C3%A7%C3%A3o+de+ponta+a+ponta" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-# 🚀 Sobre mim
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-Vite-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Desenvolvo plataformas ERP, aplicações corporativas e produtos com IA integrada, sempre priorizando escalabilidade, manutenibilidade e arquitetura limpa.
+📍 Santa Catarina, Brasil 🇧🇷
 
-**O que eu construo**
-
-- 🏢 Sistemas ERP corporativos
-- 💬 Plataformas de gestão e colaboração
-- 🤖 Aplicações com IA integrada
-- ⚡ APIs e serviços de alta performance
-- 📱 Apps mobile híbridos (Android/iOS via Capacitor)
-- ☁️ Infraestrutura cloud-native e CI/CD
-- 🔄 Automação de processos e integrações (WhatsApp, filas, notificações)
+</div>
 
 ---
 
-# 💻 Stack
+## 👋 Sobre mim
 
-**Frontend** — React • Vite • Tailwind CSS • Blazor
+Construo produtos de software escaláveis, da arquitetura de negócio à produção, com foco em **plataformas ERP**, **sistemas corporativos** e **integrações de IA**. Priorizo escalabilidade, manutenibilidade e arquitetura limpa.
 
-**Backend** — C# • .NET / ASP.NET Core • Node.js • Prisma ORM • Socket.io • BullMQ
-
-**Mobile** — Capacitor (Android nativo, push via Firebase Cloud Messaging)
-
-**Dados & Armazenamento** — MySQL • Redis • MinIO (S3-compatible)
-
-**Infraestrutura** — Docker • GitHub Actions (CI/CD) • Cloudflare Tunnel • Linux • macOS
-
-**IA & Integrações** — Automação de documentos e comparação de orçamentos com IA • Automação via WhatsApp
+> Software bom não é só sobre escrever código, é sobre projetar sistemas que continuam simples, escaláveis e fáceis de manter anos depois.
 
 ---
 
-# 🚀 Projetos em destaque
+## ✨ Projeto open source em destaque
 
-## 🏢 EngIA ERP
+<table>
+<tr>
+<td width="60%">
 
-ERP para gestão de obras e construção civil, multiempresa.
+### 🟠 [Claude Usage Bar](https://github.com/NatanNarciso/claude-usage-bar)
+
+App nativo de barra de menu para macOS que mostra quanto do limite do **Claude Code** (janela de 5 horas e semanal) você já usou. Um mascote em pixel art é o medidor: ele muda de humor, reage ao mouse e comemora quando o limite renova.
+
+- Swift + SwiftUI, sem dependências
+- Alertas em 80% e 95%, previsão de ritmo
+- Interface em inglês e português
+- Gratuito e open source (MIT)
+
+[**⬇️ Baixar**](https://github.com/NatanNarciso/claude-usage-bar/releases/latest) • [**📖 Wiki**](https://github.com/NatanNarciso/claude-usage-bar/wiki) • [**⭐ Dar uma estrela**](https://github.com/NatanNarciso/claude-usage-bar)
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/NatanNarciso/claude-usage-bar/main/docs/assets/mascot-states.gif" width="260" alt="Estados do mascote do Claude Usage Bar" />
+
+</td>
+</tr>
+</table>
+
+### 🧰 Outros repositórios públicos
+
+| Projeto | O que é |
+|---|---|
+| [**devlog-skill**](https://github.com/NatanNarciso/devlog-skill) | Skill do Claude Code que registra o trabalho concluído como nota datada no seu vault Obsidian |
+| [**idea-skill**](https://github.com/NatanNarciso/idea-skill) | Transforma uma ideia falada em uma issue do GitHub com tags, no board Kanban certo |
+| [**BoletoNetCore**](https://github.com/NatanNarciso/BoletoNetCore) | Versão do BoletoNet para .NET Core |
+
+---
+
+## 🏗️ O que eu construo
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏢 EngIA ERP
+ERP multiempresa para gestão de obras e construção civil.
 
 - Compras, cotação e ordens de compra
-- Controle de estoque e insumos por obra
-- Financeiro (contas a pagar, faturamento)
+- Estoque e insumos por obra
+- Financeiro e faturamento
 - Leitura de notas fiscais e comparação de orçamentos com IA
-- Backend .NET/C# + frontend Blazor
+- .NET/C# + Blazor
 
-## 📋 Agenda Voltolini (DailyTask)
+</td>
+<td width="33%" valign="top">
 
-Plataforma corporativa de gestão de tarefas e comunicação interna.
+### 📋 Agenda Voltolini
+Gestão de tarefas e comunicação interna.
 
-- Kanban, calendário e agendamento de salas em tempo real
-- Chat corporativo (DMs, canais, feed) e recepção/CRM de visitantes
-- Notificações push nativas (Android via Capacitor + FCM)
-- Backend Node.js + frontend React
+- Kanban, calendário e salas em tempo real
+- Chat corporativo e CRM de visitantes
+- Push nativo (Android via Capacitor + FCM)
+- Node.js + React
 
-## 🤖 N7 Notify
+</td>
+<td width="33%" valign="top">
 
-Plataforma de automação via WhatsApp de alta performance.
+### 🤖 N7 Notify
+Automação via WhatsApp de alta performance.
 
 - API REST multi-sessão
-- Suporte a mídia e automação de fluxos
+- Mídia e automação de fluxos
 - Integrações com IA
 
----
-
-# 🧠 Como eu trabalho
-
-> Software bom não é só sobre escrever código — é sobre projetar sistemas que continuam simples, escaláveis e fáceis de manter anos depois.
-
-- Arquitetura limpa e orientada a domínio
-- API first
-- IA aplicada a problemas reais, não por modismo
-- Automação de ponta a ponta
-- Performance e experiência do desenvolvedor
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌎 Foco atual
+## 💻 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,vite,tailwind,nodejs,ts,js,swift,mysql,redis,docker,githubactions,linux,apple&perline=8" alt="Stack" />
+
+</div>
+
+| | |
+|---|---|
+| **Frontend** | React • Vite • Tailwind CSS • Blazor |
+| **Backend** | C# • ASP.NET Core • Node.js • Prisma • Socket.io • BullMQ |
+| **Mobile** | Capacitor (Android, push via FCM) • SwiftUI (macOS) |
+| **Dados** | MySQL • Redis • MinIO (S3-compatible) |
+| **Infra** | Docker • GitHub Actions • Cloudflare Tunnel • Linux • macOS |
+| **IA** | Extração de documentos, comparação de orçamentos, automação com WhatsApp |
+
+---
+
+## 🧠 Como eu trabalho
+
+- 🧱 Arquitetura limpa e orientada a domínio
+- 🔌 API first
+- 🤖 IA aplicada a problemas reais, não por modismo
+- ⚙️ Automação de ponta a ponta
+- 🚀 Performance e experiência de quem desenvolve
+
+## 🌎 Foco atual
 
 - Evoluindo o EngIA ERP
 - Levando a Agenda Voltolini para mobile (Android/iOS)
-- Explorando IA aplicada a automação de processos corporativos
+- Explorando IA aplicada à automação de processos corporativos
+- Cuidando do crescimento do Claude Usage Bar
 
 ---
 
-## 📍 Brasil 🇧🇷
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NatanNarciso&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CC6140&icon_color=CC6140&text_color=C9D1D9&count_private=true" height="150" alt="Estatísticas do GitHub" />
+
+<br/><br/>
 
 **Construindo software que gera valor real para o negócio.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D98060,100:CC6140&height=100&section=footer" alt="" />
+
+</div>
