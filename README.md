@@ -144,7 +144,7 @@ Automação via WhatsApp de alta performance.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NatanNarciso&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CC6140&icon_color=CC6140&text_color=C9D1D9&count_private=true" height="150" alt="Estatísticas do GitHub" />
+<img src="https://streak-stats.demolab.com?user=NatanNarciso&hide_border=true&background=0D1117&ring=CC6140&fire=CC6140&currStreakLabel=CC6140&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&locale=pt_BR" height="150" alt="Contribuições e sequência no GitHub" />
 
 <br/><br/>
 
